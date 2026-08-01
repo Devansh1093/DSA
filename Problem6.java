@@ -1,0 +1,22 @@
+/* 
+
+ */
+
+//M1 HashMap + ArrayList
+
+class Solution {
+    public int[] topKFrequent(int[] nums, int k) {
+        HashMap<Integer,Integer> mp = new HashMap<>();
+        int[] ans = new int[k];
+         for (int num : nums) {
+            mp.put(num, mp.getOrDefault(num, 0) + 1);
+        }
+        List<Map.Entry<Integer, Integer>> list = new ArrayList<>(mp.entrySet());
+        list.sort((a, b) -> b.getValue() - a.getValue());
+        for (int i = 0; i < k; i++) {
+         ans[i] = list.get(i).getKey();
+      }
+        return ans;
+    }
+
+}
