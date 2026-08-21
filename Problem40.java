@@ -1,5 +1,8 @@
 // Reorder List
+class ListNode{
 
+    
+}
 
 class Solution {
     public void reorderList(ListNode head) {
