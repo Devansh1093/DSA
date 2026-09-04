@@ -2,9 +2,9 @@
 Hi! I'm solving LeetCode problems daily to improve my DSA skills.
 
 ## 📊 Progress
-- Total Solved: 75
-- Easy: 44
-- Medium: 25
+- Total Solved: 123
+- Easy: 69
+- Medium: 48
 - Hard: 6
 ## 📁 Topics Covered
 - Arrays
