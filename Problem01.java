@@ -3,6 +3,11 @@ Hash Table Question
 Valid Anagram
 */
 
+public class Problem01 {
+    
+}
+
+
 // M1 - Brute Force . Not able to solve because of TLE
 class Solution {
     public boolean isAnagram(String s, String t) {
@@ -35,7 +40,7 @@ class Solution {
 
 
 // M2 using two hashmaps and comparision
-class Solution {
+class Solution2 {
     public boolean isAnagram(String s, String t) {
         HashMap<Character,Integer> mp = new HashMap<>();
         HashMap<Character,Integer> mp2 = new HashMap<>();
@@ -56,7 +61,7 @@ class Solution {
 
 // M3 - using one HashMap, decrement the hashmap
 
-class Solution {
+class Solution3 {
     public boolean isAnagram(String s, String t) {
         HashMap<Character,Integer> mp = new HashMap<>();
         
