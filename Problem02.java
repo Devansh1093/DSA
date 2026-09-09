@@ -6,7 +6,6 @@ Majority Element
 
 
 // M1  Brute Force: TLE
-
 class Solution {
     public int majorityElement(int[] nums) {
         int element =0;
