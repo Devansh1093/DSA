@@ -1,8 +1,8 @@
 # Leetcode Journey
-Hi! I'm solving LeetCode problems daily to improve my DSA skills.
+Hello, I'm solving LeetCode problems daily to improve my DSA skills.
 
 ## 📊 Progress
-- Total Solved: 133
+- Total Solved: 134
 - Easy: 73
 - Medium: 53
 - Hard: 6
