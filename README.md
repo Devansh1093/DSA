@@ -7,7 +7,7 @@ Hello, I'm solving LeetCode problems daily to improve my DSA skills.
 - Medium: 53
 - Hard: 6
 ## 📁 Topics Covered
-- Arrays
+- Array
 - Hash maps
 - Strings
 - Linked List
