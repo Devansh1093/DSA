@@ -1,6 +1,6 @@
 import java.util.*;
 
-//Sum triangle from array
+//Sum triangle from array (GFG)
 
 // Given an array of integers, print a sum triangle from it such that the first level has all array elements. From then, at each level number of elements is one less than the previous level and elements at the level is be the Sum of consecutive two elements in the previous level. 
 // Example :
