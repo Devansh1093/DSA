@@ -2,7 +2,7 @@
 Hello, I am solving LeetCode problems daily to improve my DSA skills.
 
 ## 📊 Progress
-- Total Solved: 156
+- Total Solved: 157
 - Easy: 73
 - Medium: 53
 - Hard: 6
@@ -14,5 +14,6 @@ Hello, I am solving LeetCode problems daily to improve my DSA skills.
 - Stack/Queue
 - Sliding Window
 - Binary Search
+- Recursion
 ## 🔗 Profile
 https://leetcode.com/u/DR1102/
